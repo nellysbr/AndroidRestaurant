@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="ex_5">ex: 5</string>
+    <string name="textview">TextView</string>
+    <string name="consumo_total_r">Consumo total R$:</string>
+    <string name="couvert_art_stico">Couvert Artístico:</string>
+    <string name="ex_100">ex: 100</string>
+    <string name="dividir_a_conta_por">Dividir a conta por:</string>
+    <string name="taxa_de_servi_o">Taxa de serviço:</string>
+    <string name="conta_total">Conta total:</string>
+    <string name="logo_restaurant">logo restaurant</string>
+    <string name="valor_por_pessoa">Valor por pessoa:</string>
+    <string name="ex_20">ex: 20</string>
+    <string name="r_xxx_xxx">R$ xxx.xxx</string>
+    <string name="r_xx_xx">R$ xx.xx</string>
+    <string name="ex_25">ex: 25</string>
+</resources>
